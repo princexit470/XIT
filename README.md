@@ -1,4 +1,4 @@
-# XIT[Uploading index (1).htm<!DOCTYPE html>
+<!DOCTYPE html>
 <html>
   <head>
     <title> XIT </title>
